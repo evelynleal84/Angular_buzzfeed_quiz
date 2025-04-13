@@ -1,27 +1,41 @@
-# ProjetoBuzzfeed
+# 🎬 Quiz de Personagens de Filmes - Estilo BuzzFeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Um projeto divertido em Angular (v14.1.2) inspirado nos famosos quizzes do BuzzFeed! Responda perguntas e descubra com qual personagem de filme você mais se parece!
 
-## Development server
+## 🚀 Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Angular 14.1.2](https://angular.io/)
+- TypeScript
+- HTML5 e SCSS
+- RxJS
+- Angular CLI
 
-## Code scaffolding
+## 🎯 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Sistema de quiz com perguntas de múltipla escolha
+- Cálculo do personagem final com base nas respostas do usuário
+- Interface dinâmica e responsiva
+- Navegação simples e intuitiva
+- Compartilhamento de resultado (simulado)
 
-## Build
+## 🧠 Como funciona
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+O quiz é composto por uma série de perguntas. Cada alternativa está associada a um personagem específico. Ao final, o personagem com maior pontuação é exibido como resultado.
 
-## Running unit tests
+📸 Screenshots
+🏁 Tela Inicial
+![Tela Inicial](https://github.com/evelynleal84/Angular_buzzfeed_quiz/blob/main/prints/pergunta.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🧑‍🎬 Resultado do Personagem
+![Resultado](https://github.com/evelynleal84/Angular_buzzfeed_quiz/blob/main/prints/resultado.png)
 
-## Running end-to-end tests
+✨ Exemplo de Resultado
+Você é a Hermione Granger! Inteligente, determinada e sempre pronta para ajudar os amigos. 📚✨
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## 📦 Instalação
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/evelynleal84/Angular_buzzfeed_quiz.git
