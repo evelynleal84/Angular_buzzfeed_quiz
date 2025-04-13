@@ -1,0 +1,64 @@
+{
+  "title":" Que personagem de filme você seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você está diante de um grande desafio. Qual sua primeira reação?",
+      "options":[
+        {"id": 1, "name":"a) Traço um plano estratégico e sigo com foco", "alias":"A"},
+        {"id": 2, "name":"b) Uso meu carisma pra unir as pessoas.", "alias":"B"},
+        {"id": 3, "name":"c) Confio na força bruta.", "alias":"C"},
+        {"id": 4, "name":"d) Sigo minha intuição e improviso.", "alias":"D"}
+        
+      ]
+    },
+    
+    {
+      "id":2,
+      "question": "Se pudesse escolher um poder, qual seria?",
+      "options":[
+        {"id": 1, "name":"a) Inteligência sobre-humana", "alias":"A"},
+        {"id": 2, "name":"b) Controle da mente", "alias":"B"},
+        {"id": 3, "name":"c) Força física extrema", "alias":"C"},
+        {"id": 4, "name":"d) Habilidade com armas e furtividade", "alias":"D"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual ambiente você prefere?",
+      "options":[
+        {"id": 1, "name":"a) Uma cidade futurista cheia de tecnologia", "alias":"A"},
+        {"id": 2, "name":"b) Um castelo antigo com segredos mágicos", "alias":"B"},
+        {"id": 3, "name":"c) Um campo de batalha no espaço", "alias":"C"},
+        {"id": 4, "name":"d) Uma floresta onde preciso sobreviver", "alias":"D"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual dessas frases mais combina com você?",
+      "options":[
+        {"id": 1, "name":"a) Com grandes poderes vêm grandes responsabilidades.", "alias":"A"},
+        {"id": 2, "name":"b) A felicidade pode ser encontrada até nas horas mais sombrias", "alias":"B"},
+        {"id": 3, "name":"c) Que a Força esteja com você", "alias":"C"},
+        {"id": 4, "name":"d) Se a gente queimar, você queima com a gente.", "alias":"D"}
+      ]
+    },
+
+    {
+      "id":5,
+      "question": "Qual dessas qualidades você valoriza mais em si mesmo(a)?",
+      "options":[
+        {"id": 1, "name":"a) Criatividade e visão", "alias":"A"},
+        {"id": 2, "name":"b) Inteligência emocional", "alias":"B"},
+        {"id": 3, "name":"c) Determinação e bravura", "alias":"C"},
+        {"id": 4, "name":"d) Resistência e autonomia", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é o Homem de Ferro (Tony Stark) – estrategista, sarcástico e brilhante.",
+    "B": "Você é Hermione Granger – inteligente, leal e destemida.",
+    "C": "Você é Luke Skywalker – corajoso, determinado e cheio de fé.",
+    "D": "Você é Katniss Everdeen – rebelde, intuitiva e cheia de garra."
+  }
+}
